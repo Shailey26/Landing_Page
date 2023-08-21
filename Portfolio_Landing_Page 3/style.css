@@ -1,0 +1,87 @@
+.body{
+    font-family: 'Brygada 1918', serif;
+    font-family: 'Mukta', sans-serif;
+    font-family: 'Poppins', sans-serif;
+}
+
+.navbar-nav{
+    gap: 50px;
+    /* margin-left: 25px; */
+    padding-top: 4px;
+    /* padding-left: 50px !important; */
+}
+
+.button1{
+    margin-top: 7px;
+    margin-left: 450px;
+    font-weight: 400;
+    font-size: medium;
+    /* background-color: rgb(17, 46, 211); */
+}
+
+/* button{
+    padding: 10px 5px;
+    font-weight: 400;
+    font-size: medium;
+    background-color: rgb(17, 46, 211);
+} */
+
+.btn-primary{
+    font-weight: 400 !important;
+    font-size: medium !important;
+    background-color: rgb(17, 46, 211) !important;
+}
+
+.banner-container{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.heading{
+    font-size: large !important;
+    font-weight: 5000 !important;
+    margin-left: 50px;
+    color: rgba(49, 48, 48, 0.945);
+    font-family: 'Poppins', sans-serif;
+
+}
+
+span{
+    color: rgb(17, 46, 211);
+}
+
+.description{
+    margin-top: 20px;
+    margin-left: 50px;
+    font-family: "Poppins";
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 26px;
+    letter-spacing: 0.01em;
+    color: #828282;
+    margin-top: 28px;
+}
+
+.right-main img{
+    height: 600px;
+    width: 750px;
+}
+
+.description{
+    font-weight: 600;
+    font-size: medium;
+    text-align: justify;
+    font-family: 'Poppins', sans-serif;
+}
+
+.btn-secondary{
+    padding: 10px 20px 10px 20px !important;
+    margin-top: 20px;
+    margin-left: 50px;
+    font-weight: 400 !important;
+    font-size: medium !important;
+    background-color: rgb(17, 46, 211) !important;
+
+}
